@@ -1,4 +1,4 @@
-# Technocolabs Machine Learning Application Developer Internship (15th September-30th October 2021)
+# Technocolabs Software - Machine Learning Application Developer Internship (15th September-30th October 2021)
 ## Predicting Market Volatility using Macro Headlines
 
 We predict equity market volatility using tweets from major news sources, hedge funds and investment banks, and notable economists. Selected 5 major companies tweets and stock data for a period of 6 months. The companies selected are APPLE, AMAZON, IBM, MICROSOFT, TESLA. We used Support Vector Machine(SVM) classification algorithm for training a model which can predict whether the tweet sentiment will effect the market volatility in a positive or negative way. The features used to train the model are sentimental polarity from tweets and Open, High, Low values from stock data.
