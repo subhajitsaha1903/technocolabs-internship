@@ -60,4 +60,8 @@ Application Developer at IBM || Aspiring Data Scientist || Artificial Intelligen
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhajitsaha1903/)
 
 
+## 🔗 GitHub Profile:
+
+[![GitHub](https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/subhajitsaha1903) 
+
   
